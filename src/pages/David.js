@@ -15,10 +15,10 @@ export default function examplePage() {
           />
 
           <p className='description'>
-          Hi, I’m David, a first year computer science major at CU Boulder. 
+          Hi, I’m David, a first-year computer science major at CU Boulder. 
           I’m from Thornton, Colorado and I’ve lived in Colorado my whole life.
-          I have always been interested in technology as long as I can remember, so I’m looking forward to my future in computer science!
-          I also love reselling shoes and playing basketball, volleyball and video games! 
+          I have always been interested in technology for as long as I can remember, so I’m looking forward to my future in computer science!
+          I also love reselling shoes and playing basketball, volleyball, and video games! 
           </p>
 
           <a className='button' href='/'>
