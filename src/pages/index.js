@@ -28,8 +28,25 @@ export default function Home() {
           </a>
           <a href='/Isaias ' className='card'>
             <h3>Isaias Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
+            <p>Click here to navigate to Isaias' page</p>
           </a>
+          <a href='/Ethan ' className='card'>
+            <h3>Ethan Page &rarr;</h3>
+            <p>Click here to navigate to Ethan's page</p>
+          </a>
+          <a href='/Aidan ' className='card'>
+            <h3>Aidan Page &rarr;</h3>
+            <p>Click here to navigate to Aidan's page</p>
+          </a>
+          <a href='/Patrick ' className='card'>
+            <h3>Patrick Page &rarr;</h3>
+            <p>Click here to navigate to Patrick's page</p>
+          </a>
+          <a href='/David ' className='card'>
+            <h3>David Page &rarr;</h3>
+            <p>Click here to navigate to David's page</p>
+          </a>
+
 
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
