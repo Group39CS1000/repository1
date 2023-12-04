@@ -16,7 +16,7 @@ export default function examplePage() {
 
           <p className='description'>
           My name is Patrick Maring and I’m from Louisville Colorado, I’m currently studying computer science and hoping to minor in business. 
-          In my free time I like gaming, skiing and lifting.
+          In my free time I like gaming, skiing and lifting. Recently I have also been watching Money Heist on Netflix.
           </p>
 
           <a className='button' href='/'>
