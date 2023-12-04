@@ -17,9 +17,10 @@ export default function examplePage() {
           <p className='description'>
           Hi my name is Aidan Murray. 
           I am from Louisville, Colorado, and I graduated from Monarch High school in 2023 where I was the captain of the football team as well as a member in the Spanish Honors society.
-          I am currently attending CU Boulder as a freshman in the school of Engineering and Applied Sciences. 
+        I have one sibling (Glynnis) who is 15 years old, and is currently attending Monarch High school.   
+        I am currently attending CU Boulder as a freshman in the school of Engineering and Applied Sciences. 
           I plan on graduating from CU with a degree through the Leeds school of business with an emphasis in finance. 
-          In my free time I enjoy skiing, weightlifting, watching sports, and hanging out with my friends. 
+          In my free time I enjoy skiing, weightlifting, watching sports, and hanging out with friends.
           </p>
 
           <a className='button' href='/'>
