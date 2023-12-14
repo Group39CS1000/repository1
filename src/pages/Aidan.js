@@ -21,6 +21,7 @@ export default function examplePage() {
         I am currently attending CU Boulder as a freshman in the school of Engineering and Applied Sciences. 
           I plan on graduating from CU with a degree through the Leeds school of business with an emphasis in finance. 
           In my free time I enjoy skiing, weightlifting, watching sports, and hanging out with friends.
+        Additionally I love to travel and have been to 4 different countries, in which Sayulita, Mexico has been my favorite. 
           </p>
 
           <a className='button' href='/'>
